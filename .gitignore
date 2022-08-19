@@ -1,0 +1,7 @@
+/validator_reports/**
+/simulator_saved_messages/**
+/messages_for_validation/**
+/logs/**
+/certs/**
+setremote.sh
+
